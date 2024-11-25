@@ -4,6 +4,7 @@
 Prerequisite: 
           JDK
           Eclipse IDE
+          Browser for Running Script (Chrome,edge,..)
           Selenium Dependency -
                       
                       <dependency>  
@@ -12,7 +13,7 @@ Prerequisite:
                             <version>4.26.0</version>  
                       </dependency> 
 
-          Browser for Running Script (Chrome,edge,..)
+          
 
 Steps to Run
     1. Create a New Maven Project  
